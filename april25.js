@@ -39,6 +39,10 @@
 // console.log("false")
 
 
+// Input: nums = [2,7,11,15], target = 9
+// Output: [0,1]
+// Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
 
 // var array = [2,7,11,15,3,6];
 // var target = 9;
@@ -70,7 +74,12 @@
 
 
 
-// remove duplicate elements from array
+//Input: nums = [0,0,1,1,1,2,2,3,3,4]
+// Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
+// Explanation: Your function should return k = 5, with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.
+// It does not matter what you leave beyond the returned k (hence they are underscores).
+
+
 // var array =[1,1,3,5,66,6,7,8,7,1,1];
 // var final=[];
 // var dupe=[];
@@ -87,7 +96,11 @@
 // console.log(final);
 
 
-// remove  elements
+// Input: nums = [3,2,2,3], val = 3
+// Output: 2, nums = [2,2,_,_]
+// Explanation: Your function should return k = 2, with the first two elements of nums being 2.
+// It does not matter what you leave beyond the returned k (hence they are underscores)
+
 // var array=[0,1,2,2,3,0,4,2]
 // var val = 2;
 // var bin=[];
