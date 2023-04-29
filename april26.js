@@ -129,20 +129,20 @@
 
 // }
 
-const nums = [1, 2, 3, 2, 1];
-let result = 0;
-for (let i = 0; i < nums.length; i++) {
-  result ^= nums[i];
-}
-console.log(result); // Output: 3
+// const nums = [1, 2, 3, 2, 1];
+// let result = 0;
+// for (let i = 0; i < nums.length; i++) {
+//   result ^= nums[i];
+// }
+// console.log(result); // Output: 3
 
 
 
 
 
-min=0
-arr .lengtha i < min
-min = arr 
+// min=0
+// arr .lengtha i < min
+// min = arr 
 
 
 
