@@ -140,8 +140,9 @@ console.log(result); // Output: 3
 
 
 
-
-
+min=0
+arr .lengtha i < min
+min = arr 
 
 
 
